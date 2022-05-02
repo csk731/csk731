@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **chaitanya-allu/chaitanya-allu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +21,9 @@ Project Engineer @Wipro Ltd.
 I've have been learning to code for 1 year. I started my career with Frontend technologies, but I really have a passion for backend development. Have a keen eye for detail and strong communication abilities. In order to improve, investigate & utilize my technical knowledge in the actual world. I'm looking forward to expand and explore it.
 
 * 🌍  I'm based in Andhrapradesh, India
-* 🧠  I'm learning Java-J2EE, Data structures & Algorithms
+* 🧠  I'm currently learning Java-J2EE, Data structures & Algorithms
+* 💬  Ask me about anything
+* 📫  How to reach me: chaitanyaa1999@gmail.com
 
 ### Skills
 
