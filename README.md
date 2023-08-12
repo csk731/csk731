@@ -12,18 +12,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi 👋 My name is Chaitanya
-==========================
 
-Software Engineer @Wipro Technologies
-----------------------------
+# 👋 Hello World! I'm Chaitanya 🌍
 
-I've have been learning to code for 1 year. I started my career with Frontend technologies, but I really have a passion for backend development. Have a keen eye for detail and strong communication abilities. In order to improve, investigate & utilize my technical knowledge in the actual world. I'm looking forward to expand and explore it.
+I believe in the magic of code and the limitless possibilities it brings. With a cup of Java, a sprinkle of Spring, and a touch of creativity, I'm crafting the future of technology, one line at a time.
 
-* 🕸️  Passionate about Java Developement with Springboot.
-* 🧠  Currently learning Java-EE, Data structures & Algorithms
-* 📫  How to reach me: chaitanyaa1999@gmail.com
+🚀 Here's a bit about me:
 
-### Socials
+- 🎓 Currently pursuing a Master's in Computer Science (Software Engineering) from University of Missouri-Kansas City.
+- 🧠 Continuously enhancing my problem solving skill by Data Structures & Algorithms to conquer new coding horizons.
+- 💻 Turning caffeine into code, and ideas into reality.
+- 🌱 Passionate about backend development with Spring Boot.
+- 🕵️‍♂️ Exploring the mysteries of tech, one bug at a time.
 
-<p align="left"> <a href="https://www.github.com/chaitanya-allu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/chaitanyaallu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.hackerrank.com/chaitanyaallu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chaitanyaallu-blue)](https://www.linkedin.com/in/chaitanyaallu)
+[![GitHub](https://img.shields.io/badge/GitHub-csk731-darkgreen)](https://github.com/csk731)
+[![HackerRank](https://img.shields.io/badge/HackerRank-csk731-success)](https://www.hackerrank.com/csk731)
+
+### 💻 Technical Toolkit
+
+Java • Spring Boot • Data Structures • Algorithms • RESTful APIs • OOAD • Git • SOLID Principles • Design Patterns • JUnit • Microservices • AWS
+
+### 📫 Let's Chat!
+
+Have a project in mind or just want to talk tech? Reach out to me at [chaitanyaa1999@gmail.com](mailto:chaitanyaa1999@gmail.com).
+
+> 🌟 “In every job that must be done, there is an element of fun.” - Mary Poppins
+
