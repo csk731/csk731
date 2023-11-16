@@ -21,7 +21,7 @@ I believe in the magic of code and the limitless possibilities it brings. With a
 
 - 🎓 Currently pursuing a Master's in Computer Science (Software Engineering) from University of Missouri-Kansas City.
 - 🧠 Continuously enhancing my problem solving skill by Data Structures & Algorithms to conquer new coding horizons.
-- 🌱 Passionate about backend development with Java and Spring Boot.
+- 🌱 Passionate about full stack development.
 - 🕵️‍♂️ Exploring the mysteries of tech, one bug at a time.
 
 ### 🌐 Connect with Me
@@ -32,7 +32,7 @@ I believe in the magic of code and the limitless possibilities it brings. With a
 
 ### 💻 Technical Toolkit
 
-Java • Spring Boot • Data Structures • Algorithms • RESTful APIs • OOAD • Git • SOLID Principles • Design Patterns • JUnit • Microservices • AWS
+Java • Spring Boot • Data Structures • Algorithms • RESTful APIs • OOAD • Git • SOLID Principles • Design Patterns • Microservices • AWS
 
 ### 📫 Let's Chat!
 
