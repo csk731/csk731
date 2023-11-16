@@ -13,30 +13,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hello World! I'm Chaitanya 🌍
+# Hello! I'm Chaitanya 👋
 
-I believe in the magic of code and the limitless possibilities it brings. With a cup of Code, and a touch of creativity, I'm crafting the future of technology, one line at a time.
+I believe in the magic of code and the limitless possibilities it brings. With a cup of Code, and a touch of creativity, I'm crafting the future of technology.
 
-🚀 Here's a bit about me:
-
+### About me 🧑‍💻
 - 🎓 Currently pursuing a Master's in Computer Science (Software Engineering) from University of Missouri-Kansas City.
 - 🧠 Continuously enhancing my problem solving skill by Data Structures & Algorithms to conquer new coding horizons.
 - 🌱 Passionate about full stack development.
 - 🕵️‍♂️ Exploring the mysteries of tech, one bug at a time.
 
-### 🌐 Connect with Me
+### My Profiles 🌐
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chaitanyaallu-blue)](https://www.linkedin.com/in/chaitanyaallu)
-[![GitHub](https://img.shields.io/badge/GitHub-csk731-darkgreen)](https://github.com/csk731)
-[![HackerRank](https://img.shields.io/badge/HackerRank-csk731-success)](https://www.hackerrank.com/csk731)
+[![LeetCode](https://img.shields.io/badge/LeetCode-csk731-yellow)](https://leetcode.com/csk731)
 
-### 💻 Technical Toolkit
+### Tech Stack 💻 
 
-Java • Spring Boot • Data Structures • Algorithms • RESTful APIs • OOAD • Git • SOLID Principles • Design Patterns • Microservices • AWS
+Java • Data Structures • Algorithms • RESTful APIs • Object Oriented Programming & Design • Git • SOLID Principles • Design Patterns • Microservices • AWS
 
-### 📫 Let's Chat!
+### To connect with me.. 
 
-Have a project in mind or just want to talk tech? Reach out to me at [ca96y@mail.umkc.edu](mailto:ca96y@mail.umkc.edu).
+Reach out to me at [ca96y@mail.umkc.edu](mailto:ca96y@mail.umkc.edu).
 
-> 🌟 “In every job that must be done, there is an element of fun.” - Mary Poppins
+
+> “In every job that must be done, there is an element of fun” - Mary Poppins
 
