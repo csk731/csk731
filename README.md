@@ -34,7 +34,7 @@ Java • Data Structures • Algorithms • RESTful APIs • Object Oriented Pro
 
 ### To connect with me.. 
 
-Reach out to me at [ca96y@mail.umkc.edu](mailto:ca96y@mail.umkc.edu).
+Reach out to me at [ca96y@mail.umkc.edu](mailto:ca96y@mail.umkc.edu)
 
 
 > “In every job that must be done, there is an element of fun” - Mary Poppins
