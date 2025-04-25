@@ -13,15 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello! I'm Chaitanya 👋
+# Hello! I'm Chaitanya Allu👋
 
-I believe in the magic of code and the limitless possibilities it brings. With a cup of Code, and a touch of creativity, I'm crafting the future of technology.
+I’m a software engineer who thrives at the intersection of creativity and code. With a passion for building secure, scalable systems and a knack for solving real-world problems, I bring both precision and innovation to the table.
 
 ### About me 🧑‍💻
-- 🎓 Currently pursuing a Master's in Computer Science (Software Engineering) from University of Missouri-Kansas City.
-- 🧠 Continuously enhancing my problem solving skill by Data Structures & Algorithms to conquer new coding horizons.
-- 🌱 Passionate about full stack development.
-- 🕵️‍♂️ Exploring the mysteries of tech, one bug at a time.
+- 🎓 Graduate Student in Computer Science (Software Engineering), University of Missouri–Kansas City.
+- 🧠 Continuously sharpening my problem solving skills by Data Structures & Algorithms to conquer new coding horizons.
+- 💡 Passionate about Full Stack Development and Distributed Systems.
+- 🐞 Debugging enthusiast who enjoys untangling complex technical issues.
 
 ### My Profiles 🌐
 
@@ -30,11 +30,13 @@ I believe in the magic of code and the limitless possibilities it brings. With a
 
 ### Tech Stack 💻 
 
-Java • Data Structures • Algorithms • RESTful APIs • Object Oriented Programming & Design • Git • SOLID Principles • Design Patterns • Microservices • AWS
+Java • Data Structures • Algorithms • Object Oriented Programming & Design • System Design • Microservices • AWS
 
-### To connect with me.. 
+### Let’s Connect
 
-Reach out to me at [ca96y@mail.umkc.edu](mailto:ca96y@mail.umkc.edu)
+🌍 Personal Website: www.chaitanyaallu.me
+
+📫 Reach out to me at [chaitanyaa1999@gmail.com](mailto:chaitanyaa1999@gmail.com) or [ca96y@mail.umkc.edu](mailto:ca96y@mail.umkc.edu)
 
 
 > “In every job that must be done, there is an element of fun” - Mary Poppins
