@@ -36,7 +36,7 @@ Java • Data Structures • Algorithms • Object Oriented Programming & Design
 
 🌍 Personal Website: www.chaitanyaallu.me
 
-📫 Reach out to me at [chaitanyaa1999@gmail.com](mailto:chaitanyaa1999@gmail.com) or [ca96y@mail.umkc.edu](mailto:ca96y@mail.umkc.edu)
+📫 Reach out to me at [chaitanyaa1999@gmail.com](mailto:chaitanyaa1999@gmail.com)
 
 
 > “In every job that must be done, there is an element of fun” - Mary Poppins
