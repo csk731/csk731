@@ -32,11 +32,12 @@ I’m a software engineer who thrives at the intersection of creativity and code
 
 Java • Data Structures • Algorithms • Object Oriented Programming & Design • System Design • Microservices • AWS
 
+<!---
 ### Let’s Connect
 
 🌍 Personal Website: www.chaitanyaallu.me
 
-<!---
+
 📫 Reach out to me at [chaitanyaa1999@gmail.com](mailto:chaitanyaa1999@gmail.com)
 -->
 
